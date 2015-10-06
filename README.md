@@ -5,6 +5,8 @@ a- c**a**t
 
 b- **b**at
 
+c- **th**under
+
 d- **d**ad
 
 e- **e**gg
