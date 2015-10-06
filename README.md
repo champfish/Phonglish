@@ -1,59 +1,74 @@
 # Phonglish
-A better English
+## Pronunciation guide
+a - c**a**t - kat
 
-a- c**a**t
+â - **a**te - ât
 
-b- **b**at
+à - c**au**ght - càht
 
-c- **th**under
+b - **b**at - bat
 
-d- **d**ad
+c - **th**under - cunder
 
-e- **e**gg
+d - **d**ad - dad
 
-é- **ea**t
+e - **ea**t - eat
 
-f- **f**ish
+é - **e**gg - égg
 
-g- **g**ood
+f - **f**ish - fish
 
-h- **h**ood
+also **ph**armacy - farmacy
 
-i- **i**n
+g - **g**ood - gòd
 
-í- f**i**ne
+h - **h**ood - hòd
 
-j- **j**ob
+i - **i**nn - inn
 
-k- **k**id
+ì - f**i**ne - fìne
 
-l- **l**oom
+j - **j**ob - job
 
-m- **M**oon
+also **G**eorge - Jeorge
 
-n- **n**oon
+k - **k**id - kid
 
-o- **o**pera
+also **c**ake - kâke
 
-ó- d**oo**m
+l - **l**oom - lòm
 
-p- **p**izza
+m - **m**oon - mòn
 
-q- **qu**ick
+n - **n**oon - nòn
 
-r- **r**at
+o - **o**pera - opera
 
-s- **s**oup
+ò - d**oo**m - dòm
 
-t- **t**ick
+p - **p**izza - peza
 
-u- **u**gly
+q - **ch**ick - qick
 
-v- **v**ictory
+r - **r**at - rat
 
-w- **w**orm
+s - **s**oup - sòp
 
-y- **y**elp
+t - **t**ick - tik
 
-z- **z**ip
+u - **u**gly - uhgly
+
+ù - **U**V ray - UV râ
+
+v - **v**ictory - viktore
+
+w - **w**orm - wurm
+
+x - **sh**are - xare
+
+y - **y**elp - yelp
+
+but not he**y** - hée
+
+z - **z**ip
 
